@@ -1,0 +1,186 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: #141414;
+}
+.logosidebar
+{
+    margin-left: 9%;
+    font-family: 'Yu Gothic';
+    font-size: 20px;
+    color: white;
+}
+.logosidebar , ul
+{
+    display: inline-block;
+}
+ul
+{
+    margin-left: 55%;
+}
+.menubarre
+{
+    width: 100%;
+    height: 70px;
+}
+a.p
+{
+    text-decoration: none;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+li
+{
+    color: white;
+    font-family: 'Segoe UI';
+    display: inline-block;
+}
+.li2
+{
+    padding-left: 10%;
+}
+.explication
+{
+    color: white;
+    font-family: 'Arial';
+    width: 490px;
+    font-size: 35px;
+    margin-left: 9%;
+}
+.rules
+{
+    color: white;
+    font-size: 35px;
+    font-family: 'Arial';
+    margin-left: 70%;
+}
+.li1:hover
+{
+    text-decoration: underline white;
+    transform: 2s;
+    cursor: pointer;
+}
+.li2:hover
+{
+    text-decoration: underline white;
+    transform: 2s;
+    cursor: pointer;
+}
+.getintouch
+{
+    margin-top: 10%;
+    margin-left: 9%;
+    font-size: 20px;
+    color:white;
+    font-family: 'Segoe UI';
+}
+.touch
+{
+    font-family: 'Arial';
+    font-size: 60px;
+    margin-top: -1%;
+    margin-left: 11%;
+    color: grey;
+}
+.bouttondirebjr
+{
+    height: 40px;
+    font-family: 'Segoe UI';
+    cursor: pointer;
+    margin-left: 20%;
+    color: white;
+    border: 1px solid grey;
+    background-color: rgb(245, 0, 102);
+    width: 200px;
+}
+.contactUS
+{
+    height: 40px;
+    font-family: 'Segoe UI';
+    cursor: pointer;
+    margin-left: 25%;
+    color: white;
+    border: 1px solid grey;
+    background: none;
+    width: 200px;
+}
+.bouttondirebjr, .contactUS
+{
+    display: inline-block;
+}
+.contactUS:hover
+{
+    transition: 1s;
+    background-color: #81cead;
+}
+.center
+{
+    margin-left: 30%;
+    margin-top: 5%;
+}
+input, .Envoyer
+{
+    padding: 12px 20px;
+}
+input, .Envoyer, .textarea
+{
+    display: block;
+    margin-top: 2%;
+}
+input
+{
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: white;
+    border-bottom: 1px solid grey;
+    width: 438px;
+}
+.Envoyer
+{
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: white;
+    border-bottom: 1px solid grey;
+    margin-left: 15%;
+    width: 180px;
+}
+.explanation
+{
+    color: grey;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 5%;
+    font-family: 'Arial';
+}
+#heartofchallenge
+{
+    width: 638px;
+    color: rgb(245, 0, 102);
+    margin-left: 8%;
+    margin-top: 4%;
+}
+#madiv
+{
+    margin-top: 3%;
+    margin-left: 15%;
+    color: white;
+    font-size: 45px;
+    font-family: 'Segoe UI';
+}
+#explaine
+{
+    margin-top: 2%;
+    color: #B6F9C9;
+    width: 880px;
+    font-family: 'Arial';
+    font-size: 30px;
+    margin-left: 24%;
+}
